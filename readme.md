@@ -7,8 +7,8 @@ A real-time chat application. Live demo - https://chatinger.netlify.app/
 [![made-with-React](https://img.shields.io/badge/Made%20with-ReactJS-1f425f.svg)](https://www.latex-project.org/)
 [![made-with-Socket.io](https://img.shields.io/badge/Made%20with-Socket.io-1f425f.svg)](https://www.latex-project.org/)
 
-![Alt text](react_frontend/chat-app/src/images/sample1.png "Title")
-![Alt text](react_frontend/chat-app/src/images/sample2.png "Title")
+![Alt text](chat-app/src/images/sample1.png "Title")
+![Alt text](chat-app/src/images/sample2.png "Title")
 
 # Pre-requisites
 
