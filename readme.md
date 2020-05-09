@@ -17,7 +17,7 @@ A real-time chat application. Live demo - https://chatinger.netlify.app/
 # How to run in local machine?
 
     1. Clone the repository.
-    2. Go to the folder called 'server' and install the dependencies using 'npm install'.
+    2. To install the dependencies of the server run 'npm install'.
     3. After it run 'npm start' to start the server, which should start the server in localhost:5000.
     4. Navigate to the folder called 'chat-app' and run 'npm install' to install the dependencies.
     5. Run start and it should start the application in your browser in localhost:3000.
